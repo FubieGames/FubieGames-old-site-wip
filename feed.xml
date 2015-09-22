@@ -4,10 +4,10 @@
     <title>Fubie Games</title>
     <description>We make games for fun.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Sep 2015 18:59:51 +0300</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2015 18:59:51 +0300</lastBuildDate>
+    <link>http://fubiegames.github.io//</link>
+    <atom:link href="http://fubiegames.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 22 Sep 2015 19:13:36 +0300</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2015 19:13:36 +0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -16,8 +16,8 @@
 
 </description>
         <pubDate>Mon, 24 Aug 2015 16:29:33 +0300</pubDate>
-        <link>http://yourdomain.com/test/2015/08/24/ua-lang-test.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/test/2015/08/24/ua-lang-test.html</guid>
+        <link>http://fubiegames.github.io//test/2015/08/24/ua-lang-test.html</link>
+        <guid isPermaLink="true">http://fubiegames.github.io//test/2015/08/24/ua-lang-test.html</guid>
         
         
         <category>test</category>
@@ -37,8 +37,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas tempore vitae
 
 </description>
         <pubDate>Sat, 22 Aug 2015 15:00:22 +0300</pubDate>
-        <link>http://yourdomain.com/hello/world/2015/08/22/hello-world.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/hello/world/2015/08/22/hello-world.html</guid>
+        <link>http://fubiegames.github.io//hello/world/2015/08/22/hello-world.html</link>
+        <guid isPermaLink="true">http://fubiegames.github.io//hello/world/2015/08/22/hello-world.html</guid>
         
         
         <category>hello</category>
